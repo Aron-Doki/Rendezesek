@@ -1,0 +1,8 @@
+C:\Users\kardf\source\repos\Advent_of_code_Hazi\Advent_of_code_Hazi\obj\Debug\Advent_of_code_Hazi.csproj.AssemblyReference.cache
+C:\Users\kardf\source\repos\Advent_of_code_Hazi\Advent_of_code_Hazi\obj\Debug\Advent_of_code_Hazi.csproj.CoreCompileInputs.cache
+C:\Users\kardf\source\repos\Advent_of_code_Hazi\Advent_of_code_Hazi\bin\Debug\Advent_of_code_Hazi.exe.config
+C:\Users\kardf\source\repos\Advent_of_code_Hazi\Advent_of_code_Hazi\bin\Debug\Advent_of_code_Hazi.exe
+C:\Users\kardf\source\repos\Advent_of_code_Hazi\Advent_of_code_Hazi\bin\Debug\Advent_of_code_Hazi.pdb
+C:\Users\kardf\source\repos\Advent_of_code_Hazi\Advent_of_code_Hazi\obj\Debug\Advent_of_code_Hazi.exe
+C:\Users\kardf\source\repos\Advent_of_code_Hazi\Advent_of_code_Hazi\obj\Debug\Advent_of_code_Hazi.pdb
+C:\Users\kardf\source\repos\Advent_of_code_Hazi\Advent_of_code_Hazi\obj\Debug\Advent_of_code_Hazi.exe.config
