@@ -1,0 +1,8 @@
+C:\Users\kardf\source\repos\Orgonasip_rendezes\Orgonasip_rendezes\bin\Debug\Orgonasip_rendezes.exe.config
+C:\Users\kardf\source\repos\Orgonasip_rendezes\Orgonasip_rendezes\bin\Debug\Orgonasip_rendezes.exe
+C:\Users\kardf\source\repos\Orgonasip_rendezes\Orgonasip_rendezes\bin\Debug\Orgonasip_rendezes.pdb
+C:\Users\kardf\source\repos\Orgonasip_rendezes\Orgonasip_rendezes\obj\Debug\Orgonasip_rendezes.csproj.AssemblyReference.cache
+C:\Users\kardf\source\repos\Orgonasip_rendezes\Orgonasip_rendezes\obj\Debug\Orgonasip_rendezes.csproj.CoreCompileInputs.cache
+C:\Users\kardf\source\repos\Orgonasip_rendezes\Orgonasip_rendezes\obj\Debug\Orgonasip_rendezes.exe
+C:\Users\kardf\source\repos\Orgonasip_rendezes\Orgonasip_rendezes\obj\Debug\Orgonasip_rendezes.pdb
+C:\Users\kardf\source\repos\Orgonasip_rendezes\Orgonasip_rendezes\obj\Debug\Orgonasip_rendezes.exe.config
