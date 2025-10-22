@@ -1,0 +1,8 @@
+C:\Users\kardf\source\repos\Pascal-tegla\Pascal-tegla\bin\Debug\Pascal-tegla.exe.config
+C:\Users\kardf\source\repos\Pascal-tegla\Pascal-tegla\bin\Debug\Pascal-tegla.exe
+C:\Users\kardf\source\repos\Pascal-tegla\Pascal-tegla\bin\Debug\Pascal-tegla.pdb
+C:\Users\kardf\source\repos\Pascal-tegla\Pascal-tegla\obj\Debug\Pascal-tegla.csproj.AssemblyReference.cache
+C:\Users\kardf\source\repos\Pascal-tegla\Pascal-tegla\obj\Debug\Pascal-tegla.csproj.CoreCompileInputs.cache
+C:\Users\kardf\source\repos\Pascal-tegla\Pascal-tegla\obj\Debug\Pascal-tegla.exe
+C:\Users\kardf\source\repos\Pascal-tegla\Pascal-tegla\obj\Debug\Pascal-tegla.pdb
+C:\Users\kardf\source\repos\Pascal-tegla\Pascal-tegla\obj\Debug\Pascal-tegla.exe.config
