@@ -95,8 +95,6 @@ namespace Pascal_tegla
             }
             int hanyfelekeppen = 0;
             hanyfelekeppen = N_alatt_k(sorok_szama + hossz, hossz);
-            if (sorok_szama == 1)
-                hanyfelekeppen = 1;
             Console.WriteLine($"{hanyfelekeppen} féleképpen lehet a bal felső sarokból a jobb alsó sarokig eljutni");
         }
         static int Fakt(int n)
@@ -166,3 +164,4 @@ namespace Pascal_tegla
         }
     }
 }
+
