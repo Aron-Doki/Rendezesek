@@ -1,0 +1,8 @@
+C:\Users\kardf\source\repos\Distress_signal\Distress_signal\bin\Debug\Distress_signal.exe.config
+C:\Users\kardf\source\repos\Distress_signal\Distress_signal\bin\Debug\Distress_signal.exe
+C:\Users\kardf\source\repos\Distress_signal\Distress_signal\bin\Debug\Distress_signal.pdb
+C:\Users\kardf\source\repos\Distress_signal\Distress_signal\obj\Debug\Distress_signal.csproj.AssemblyReference.cache
+C:\Users\kardf\source\repos\Distress_signal\Distress_signal\obj\Debug\Distress_signal.csproj.CoreCompileInputs.cache
+C:\Users\kardf\source\repos\Distress_signal\Distress_signal\obj\Debug\Distress_signal.exe
+C:\Users\kardf\source\repos\Distress_signal\Distress_signal\obj\Debug\Distress_signal.pdb
+C:\Users\kardf\source\repos\Distress_signal\Distress_signal\obj\Debug\Distress_signal.exe.config
